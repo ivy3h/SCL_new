@@ -1,9 +1,5 @@
 # Self-Correction Learning
 
-This repo contains the official code for [**Self-Correction is More than Refinement: A Learning Framework for Language and Visual Reasoning Tasks**](https://arxiv.org/abs/2410.04055).  
-
-**🌟 Trained Models**: [LLaVA-1.5-7B](https://huggingface.co/JiayiHe/SCL_LLaVA-1.5-7b) [LLaVA-1.5-13B](https://huggingface.co/JiayiHe/SCL_LLaVA-1.5-13b) [MiniCPM-Llama-V2.5](https://huggingface.co/JiayiHe/SCL_MiniCPM_Llama_V2.5)  
-**🤗 Dataset**: [SelfCorSet](https://huggingface.co/datasets/JiayiHe/SELFCORSET)
 
 ## Getting Started
 
@@ -82,5 +78,3 @@ swift eval \
     --ignore_args_error true
 ```
 
-## Acknowledgement
-Our code is built on [IoE-Prompting](https://github.com/MBZUAI-CLeaR/IoE-Prompting) and [SWIFT](https://github.com/modelscope/ms-swift). We extend our gratitude to the authors for their work!
